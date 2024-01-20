@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552392755483",
+    "project_id": "fmh-app",
+    "storage_bucket": "fmh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552392755483:android:5bcc35ed8443c3f97a6bbe",
+        "android_client_info": {
+          "package_name": "com.fmh.family_medical_history"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552392755483-j7f6v8qr76tnd1sd15iojd2honern67h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmh.family_medical_history",
+            "certificate_hash": "faf7c310732cc057c361151859e99fcd5d2f57ae"
+          }
+        },
+        {
+          "client_id": "552392755483-sjdegtr054qooaans0b8nl6hkitadfgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBp_OH_k8zuC8jGzU5vBlTAh-W1ZCfm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552392755483-sjdegtr054qooaans0b8nl6hkitadfgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
